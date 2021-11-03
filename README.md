@@ -14,5 +14,6 @@
 See details tutorial: [https://demanejar.github.io/posts/hadoop-mapreduce-and-wordcount-project/](https://demanejar.github.io/posts/hadoop-mapreduce-and-wordcount-project/)
 
 ```
+mvn clean package
 hadoop jar target/wordcount-V1.jar com.hadoop.mapreduce.WordCount <input_path> <output_path>
 ```
