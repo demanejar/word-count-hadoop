@@ -11,7 +11,7 @@
 - Description : [word] [frequency of occurrence]
 
 # Run project
-See details tutorial: [https://demanejar.github.io/posts/hadoop-mapreduce-and-wordcount-project/](https://demanejar.github.io/posts/hadoop-mapreduce-and-wordcount-project/)
+See details tutorial: [https://demanejar.github.io/posts/hadoop-mapreduce-and-wordcount-project/](https://demanejar.github.io/posts/hadoop-mapreduce-and-wordcount-project/#ch%C6%B0%C6%A1ng-tr%C3%ACnh-wordcount-v%E1%BB%9Bi-mapreduce)
 
 ```
 mvn clean package
